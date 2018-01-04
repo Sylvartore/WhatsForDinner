@@ -1,7 +1,7 @@
 # BCITFoodHelper
 # Live version: https://whats-for-dinner.azurewebsites.net/
 # Designed and coded by:
-#	-Andy
+#	-Boning Yang
 #	-Hyunse Lee
 #	-Joey Tang
 #	-Jay Ur Rehman

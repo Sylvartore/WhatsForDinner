@@ -1,0 +1,45 @@
+* {
+	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+	box-sizing: border-box;
+}
+
+h1, p {
+	text-align: center;
+}
+
+h1 {
+	font-weight: bold;
+	border: 2px solid white;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+	width: 70%;
+	margin-top: 1%;
+}
+
+p {
+	font-family: 'Vollkorn', Georgia, Times, serif;
+	font-size: 110%;
+}
+
+.container > * {
+	margin: 0.5em;
+}
+
+.form-inline > * {
+   margin: 3em 1em;
+}
+
+.right {
+	text-align: right;
+}
+.upper-table tr{
+	border: 2px solid white;
+}
+.upper-table {
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+.sub {
+	margin-top: 5%;
+}

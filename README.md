@@ -1,6 +1,8 @@
 # WhatsForDinner
 
-WhatsForDinner requires the user to enter the specific macronutrients - carbohydrates, proteins, fats - they have consumed for the day, which will then return the top 10 foods to meet the daily recommended macronutrient split for an average adult.
+WhatsForDinner requires the user to enter the specific macronutrients - carbohydrates, proteins, fats - they have consumed for the day. 
+
+The application will return a list of the top 10 foods to meet the daily recommended macronutrients for an average adult.
 
 # URL:
 
